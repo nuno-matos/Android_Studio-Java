@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SchoolGest</string>
+    <string name="student_file">Perfil de Estudante</string>
+    <string name="register_student">Registo Estudante</string>
+    <string name="insert">Inserir</string>
+    <string name="name">Nome:</string>
+    <string name="birth_date">Data Nasc:</string>
+    <string name="mobile_phone">Telemóvel:</string>
+    <string name="phone">Telefone:</string>
+    <string name="address">Morada:</string>
+    <string name="student_number">Nª Estudante</string>
+    <string name="insert_student_number">Inserir número de estudante</string>
+    <string name="insert_name">Inserir nome</string>
+    <string name="insert_birth_date">Inserir data de nascimento</string>
+    <string name="insert_address">Inserir morada</string>
+    <string name="insert_phone">Inserir número de  telefone</string>
+    <string name="insert_mobile_phone">Inserir número de telemóvel</string>
+    <string name="insert_email">Inserir email</string>
+    <string name="menu_insert">Inserir</string>
+    <string name="add">Adicionar</string>
+    <string name="delete">Apagar</string>
+    <string name="edit">Editar</string>
+    <string name="details">Detalhes</string>
+    <string name="school">Escola:</string>
+    <string name="select_option">Escolha Opção</string>
+    <string name="dialog_message">Tem a certeza que quer remover?</string>
+    <string name="dialog_title">Apagar Estudante</string>
+    <string name="cancel">Cancelar</string>
+    <string name="action_add_school">Adicionar escolas</string>
+    <string name="action_list_school">Listar escolas</string>
+    <string name="register_school">Registo Escola</string>
+    <string name="insert_school_name">Inserir nome da escola</string>
+    <string name="insert_school_initials">Inserir iniciais da escola</string>
+    <string name="school_initials">Iniciais:</string>
+    <string name="school_city">Cidade:</string>
+    <string name="insert_school_city">Inserir localidade da escola</string>
+    <string name="Update">Atualizar</string>
+    <string name="Edit_Student">Editar estudante</string>
+    <string name="insert_password">Inserir password</string>
+</resources>

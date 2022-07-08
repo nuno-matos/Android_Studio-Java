@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BasicCalculator</string>
+    <string name="btn_sum" translatable="false">+</string>
+    <string name="btn_subtraction" translatable="false">-</string>
+    <string name="btn_division" translatable="false">÷</string>
+    <string name="btn_multiply" translatable="false">×</string>
+    <string name="btn_reset">Reset</string>
+    <string name="hint_operand1">Insert operand 1</string>
+    <string name="hint_operand2">Insert operand 2</string>
+    <string name="tv_result" translatable="false">0.0</string>
+    <string name="empty_fields">Warning: There Operands empty!</string>
+    <string name="divide_by_zero">Warning: It\'s not possible divide by zero!</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasicCalculator</string>
+    <string name="btn_reset">Limpar</string>
+    <string name="hint_operand1">Introduzir operando 1</string>
+    <string name="hint_operand2">Introduzir operando 2</string>
+    <string name="empty_fields">Aviso: Existem Operandos por preencher!</string>
+    <string name="divide_by_zero">Aviso: Não é possível dividir por zero!</string>
+</resources>

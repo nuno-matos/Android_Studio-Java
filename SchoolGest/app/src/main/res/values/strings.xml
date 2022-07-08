@@ -1,0 +1,45 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">SchoolGest</string>
+    <string name="student_file">Student File</string>
+    <string name="register_student">Register Student</string>
+    <string name="insert">Insert</string>
+    <string name="name">Name:</string>
+    <string name="birth_date">Birth Date:</string>
+    <string name="mobile_phone">M. Phone:</string>
+    <string name="phone">Phone:</string>
+    <string name="address">Address:</string>
+    <string name="email" translatable="false">Email:</string>
+    <string name="student_number">Student Nº:</string>
+    <string name="insert_student_number">Insert student number</string>
+    <string name="insert_name">Insert name</string>
+    <string name="insert_birth_date">Insert birth date</string>
+    <string name="insert_address">Insert address</string>
+    <string name="insert_phone">Insert phone</string>
+    <string name="insert_mobile_phone">Insert mobile phone</string>
+    <string name="insert_email">Insert email</string>
+    <string name="menu_insert">Insert</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="details">Details</string>
+    <string name="school">School:</string>
+    <string name="select_option">Select Option</string>
+    <string name="dialog_message">Do you want to remove?</string>
+    <string name="dialog_title">Delete Student</string>
+    <string name="ok" translatable="false">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="action_add_school">Add school</string>
+    <string name="action_list_school">List schools</string>
+    <string name="register_school">Register School</string>
+    <string name="insert_school_name">Insert school name</string>
+    <string name="insert_school_initials">Insert school initials</string>
+    <string name="school_initials">Initials:</string>
+    <string name="school_city">City:</string>
+    <string name="insert_school_city">Insert school city</string>
+    <string name="Update">Update</string>
+    <string name="Edit_Student">Edit Student</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="remember_me" translatable="false">Remember Me</string>
+    <string name="password" translatable="false">Password:</string>
+    <string name="insert_password">Insert Password</string>
+</resources>
